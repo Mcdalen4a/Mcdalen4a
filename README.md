@@ -17,7 +17,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<div style="background-color: #f0f0f0; padding: 20px;">
+<div style="background-color: #FF69B4; padding: 20px;">
   <h1>¡Bienvenidos a mi proyecto!</h1>
-  <p>Este es mi archivo README con un fondo color gris claro.</p>
+  <p>Este es un archivo README con un fondo rosa claro.</p>
 </div>
