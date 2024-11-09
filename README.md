@@ -9,6 +9,11 @@
 
 ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=Mcdalen4a&layout=pie)
 
+## Actividad reciente
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mcdalen4a&show_icons=true&count_private=true&theme=radical)
+
 
 
 
