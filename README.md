@@ -10,7 +10,7 @@
 
 <h2>Design</h2>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; width: 600px; margin: 0 auto;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; width: 800px; margin: 0 auto;">
     <a href="https://github.com/repo2" target="_blank">
         <img src="https://github.com/user-attachments/assets/ad4131b9-3184-474c-b9c8-fe3354cf1811" style="width: 180px; height: 100px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
     </a>
