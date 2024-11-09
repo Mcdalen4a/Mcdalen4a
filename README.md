@@ -8,6 +8,8 @@
 
 <h2>Design</h2>
 
+<h2>Design</h2>
+
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; width: 600px; margin: 0 auto;">
     <a href="https://github.com/Mcdalen4a/Mcdonald-web-design.git" target="_blank">
         <img src="https://github.com/user-attachments/assets/ad4131b9-3184-474c-b9c8-fe3354cf1811" style="width: 180px; height: 100px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
@@ -18,7 +20,11 @@
     <a href="https://github.com/Mcdalen4a/CocaCola-design-web.git" target="_blank">
         <img src="https://github.com/user-attachments/assets/576db0fd-852a-426a-aabd-0bffc2c70bf5" style="width: 180px; height: 100px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
     </a>
+    <a href="https://github.com/Mcdalen4a/Starbucks-design-web" target="_blank">
+        <img src="https://github.com/user-attachments/assets/12fae322-f089-4dae-a3fd-e9dad4cf4dd1" style="width: 180px; height: 100px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
+    </a>
 </div>
+
 
 
 
