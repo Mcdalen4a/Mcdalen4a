@@ -3,8 +3,8 @@
 <!--
 **Mcdalen4a/Mcdalen4a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tuUsuario&layout=compact&langs_count=5)
-![Portada](portada.png)
+![portada](https://github.com/user-attachments/assets/05791f27-165f-498b-bfde-3a1170d11d5a)
+
 
 
 
