@@ -5,6 +5,10 @@
 
 ![portada](https://github.com/user-attachments/assets/05791f27-165f-498b-bfde-3a1170d11d5a)
 
+## Lenguajes más utilizados
+
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=Mcdalen4a&layout=pie)
+
 
 
 
