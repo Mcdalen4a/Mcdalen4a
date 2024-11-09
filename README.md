@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<!--
-**Mcdalen4a/Mcdalen4a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 ![portada](https://github.com/user-attachments/assets/05791f27-165f-498b-bfde-3a1170d11d5a)
 
@@ -16,4 +16,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
