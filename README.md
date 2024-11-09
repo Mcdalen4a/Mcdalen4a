@@ -16,7 +16,7 @@
 
 ## Tiempo dedicado a lenguajes
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=TU_WAKATIME_USUARIO)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mcdalen4a)
 
 
 
