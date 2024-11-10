@@ -4,7 +4,7 @@
 
 
 
-![portada](https://github.com/user-attachments/assets/074c9469-26af-4aef-a7a6-b4b5abeeb232)
+
 
 
 ![portada](https://github.com/user-attachments/assets/05791f27-165f-498b-bfde-3a1170d11d5a)
