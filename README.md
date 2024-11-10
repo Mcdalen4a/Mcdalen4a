@@ -2,12 +2,6 @@
 
 
 
-
-
-![Banner Animado Torneo Videojuegos Deportivo Dinámico Negro y Violeta](https://github.com/user-attachments/assets/b23b8d45-7030-499d-b905-922d682e4a43)
-
-
-
 ![portada](https://github.com/user-attachments/assets/05791f27-165f-498b-bfde-3a1170d11d5a)
 
 ## 📞 Contacto
