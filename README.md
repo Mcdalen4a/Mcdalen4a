@@ -4,6 +4,7 @@
 
 
 
+![Banner Animado Torneo Videojuegos Deportivo Dinámico Negro y Violeta](https://github.com/user-attachments/assets/b23b8d45-7030-499d-b905-922d682e4a43)
 
 
 
