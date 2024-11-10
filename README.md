@@ -13,7 +13,7 @@
 
 ![Resumen de Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mcdalen4a&theme=github)
 
-## 🛠️ Tecnologías y Herramientas
+
 
 ## 🛠️ Tecnologías y Herramientas
 
