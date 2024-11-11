@@ -55,6 +55,12 @@ If you want to contact me, you can communicate through the following means (I do
     </a>
 </div>
 
+<h3>Project</h3>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; width: 600px; margin: 0 auto;">
+    <a href="https://github.com/Mcdalen4a/CRUDCOMUN.git" target="_blank">
+        <img src="https://github.com/user-attachments/assets/e21741c6-60f1-4f40-8ffa-8c4afa8650fc" style="width: 180px; height: 100px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
+    </a>
 
 
 
