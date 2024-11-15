@@ -63,7 +63,7 @@ If you want to contact me, you can communicate through the following means (I do
         <img src="https://github.com/user-attachments/assets/e21741c6-60f1-4f40-8ffa-8c4afa8650fc" style="width: 180px; height: 100px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
     </a>
 
-    <a href="https://github.com/Mcdalen4a/CRUDModalReact" target="_blank">
+<a href="https://github.com/Mcdalen4a/CRUDModalReact" target="_blank">
         <img src="https://github.com/user-attachments/assets/8f3b4171-04f3-44b5-b72c-3b127116de83" style="width: 180px; height: 100px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
     </a>
 </div>
