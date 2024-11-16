@@ -61,11 +61,6 @@ If you want to contact me, you can communicate through the following means (I do
 
 <table style="width: 100%; text-align: center; border-spacing: 20px;">
   <tr>
-           <td>
-      <a href="https://github.com/Mcdalen4a/CRUDPHPMODAL.git" target="_blank">
-        <img src="https://github.com/user-attachments/assets/1660b223-3720-4a7c-8146-c1cdeb591275" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
-      </a>
-    </td>
     <td>
       <a href="https://github.com/Mcdalen4a/CRUDCOMUN.git" target="_blank">
         <img src="https://github.com/user-attachments/assets/e21741c6-60f1-4f40-8ffa-8c4afa8650fc" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
@@ -88,20 +83,32 @@ If you want to contact me, you can communicate through the following means (I do
         <img src="https://github.com/user-attachments/assets/5510033f-bc46-4e1f-b4f9-2927a5396364" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
       </a>
     </td>
- <td>
+    <td>
       <a href="https://github.com/Mcdalen4a/FormularioParaWhatsapp" target="_blank">
         <img src="https://github.com/user-attachments/assets/4fa20b99-1bf3-4931-b54b-c5c0967e6d1b" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
       </a>
     </td>
-      <td>
+    <td>
       <a href="https://github.com/Mcdalen4a/CRUDHTMLPYTHON" target="_blank">
         <img src="https://github.com/user-attachments/assets/afe29afb-a1a1-47e5-ba2f-0804f8b88283" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
       </a>
     </td>
-
   </tr>
-    
+  <!-- Aquí agregamos los nuevos proyectos -->
+  <tr>
+    <td>
+      <a href="https://github.com/Mcdalen4a/CRUDPHPMODAL.git" target="_blank">
+        <img src="https://github.com/user-attachments/assets/1660b223-3720-4a7c-8146-c1cdeb591275" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
+      </a>
+    </td>
+    <td colspan="2">
+      <a href="https://github.com/Mcdalen4a/CRUDPHPMODAL.git" target="_blank">
+        <img src="https://github.com/user-attachments/assets/1660b223-3720-4a7c-8146-c1cdeb591275" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
+      </a>
+    </td>
+  </tr>
 </table>
+
 
 <h4>API & JSON</h4>
 
