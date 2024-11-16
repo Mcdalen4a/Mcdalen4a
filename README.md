@@ -124,7 +124,4 @@ If you want to contact me, you can communicate through the following means (I do
 
 
 
-https://github.com/user-attachments/assets/69cfbb9d-ab68-4652-8347-f8077d130104 https://github.com/Mcdalen4a/e-commerce.git
-
-https://github.com/user-attachments/assets/72a65715-a9e2-49c3-a1f2-e7c30661832e https://github.com/Mcdalen4a/IntentoDeCine.git
 
