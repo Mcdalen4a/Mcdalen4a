@@ -73,7 +73,7 @@ If you want to contact me, you can communicate through the following means (I do
 
 
 <a href="https://github.com/Mcdalen4a/CarritoDeCompras.git" target="_blank">
-    <img src="https://github.com/user-attachments/assets/5510033f-bc46-4e1f-b4f9-2927a5396364)" style="width: 180px; height: 100px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;"/>
+    <img src="https://github.com/user-attachments/assets/5510033f-bc46-4e1f-b4f9-2927a5396364" style="width: 180px; height: 100px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;"/>
 </a>
 </div>
 
