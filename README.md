@@ -88,6 +88,11 @@ If you want to contact me, you can communicate through the following means (I do
         <img src="https://github.com/user-attachments/assets/4fa20b99-1bf3-4931-b54b-c5c0967e6d1b" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
       </a>
     </td>
+      <td>
+      <a href="https://github.com/Mcdalen4a/CRUDHTMLPYTHON" target="_blank">
+        <img src="https://github.com/user-attachments/assets/afe29afb-a1a1-47e5-ba2f-0804f8b88283" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -100,5 +105,6 @@ If you want to contact me, you can communicate through the following means (I do
 
 
 
+![e4270732-0d31-4f00-863d-ed2b7694c564](https://github.com/user-attachments/assets/afe29afb-a1a1-47e5-ba2f-0804f8b88283)
 
 
