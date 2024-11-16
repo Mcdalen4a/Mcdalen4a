@@ -50,9 +50,6 @@ If you want to contact me, you can communicate through the following means (I do
     <a href="https://github.com/Mcdalen4a/Starbucks-design-web" target="_blank">
         <img src="https://github.com/user-attachments/assets/12fae322-f089-4dae-a3fd-e9dad4cf4dd1" style="width: 180px; height: 100px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
     </a>
-    <a href="https://github.com/Mcdalen4a/IntentoDeCine" target="_blank">
-        <img src="https://github.com/user-attachments/assets/523a89e5-1df9-40db-b218-7afc859d4c0c" style="width: 180px; height: 100px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
-    </a>
 </div>
 
 <h3>Project</h3>
@@ -75,6 +72,10 @@ If you want to contact me, you can communicate through the following means (I do
 <a href="https://github.com/Mcdalen4a/CarritoDeCompras.git" target="_blank">
     <img src="https://github.com/user-attachments/assets/5510033f-bc46-4e1f-b4f9-2927a5396364" style="width: 180px; height: 100px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;"/>
 </a>
+
+ <a href="https://github.com/Mcdalen4a/IntentoDeCine" target="_blank">
+        <img src="https://github.com/user-attachments/assets/523a89e5-1df9-40db-b218-7afc859d4c0c" style="width: 180px; height: 100px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
+    </a>
 </div>
 
 
