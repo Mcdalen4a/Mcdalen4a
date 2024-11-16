@@ -54,27 +54,37 @@ If you want to contact me, you can communicate through the following means (I do
 
 <h3>Project</h3>
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; justify-items: center; width: 80%; margin: 0 auto;">
-    <a href="https://github.com/Mcdalen4a/CRUDCOMUN.git" target="_blank">
+<table style="width: 100%; text-align: center; border-spacing: 20px;">
+  <tr>
+    <td>
+      <a href="https://github.com/Mcdalen4a/CRUDCOMUN.git" target="_blank">
         <img src="https://github.com/user-attachments/assets/e21741c6-60f1-4f40-8ffa-8c4afa8650fc" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
-    </a>
-
-<a href="https://github.com/Mcdalen4a/CRUDModalReact" target="_blank">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Mcdalen4a/CRUDModalReact" target="_blank">
         <img src="https://github.com/user-attachments/assets/71eb46e4-621a-4116-9e8c-46070b8bd0be" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
-    </a>
-
-<a href="https://github.com/Mcdalen4a/CalendarioWithTSReact.git" target="_blank">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Mcdalen4a/CalendarioWithTSReact.git" target="_blank">
         <img src="https://github.com/user-attachments/assets/1aafb989-1409-4a1e-84a9-5d86a6c3fc0d" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
-    </a>
-
-<a href="https://github.com/Mcdalen4a/CarritoDeCompras.git" target="_blank">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Mcdalen4a/CarritoDeCompras.git" target="_blank">
         <img src="https://github.com/user-attachments/assets/5510033f-bc46-4e1f-b4f9-2927a5396364" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
-    </a>
-
-<a href="https://github.com/Mcdalen4a/IntentoDeCine" target="_blank">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Mcdalen4a/IntentoDeCine" target="_blank">
         <img src="https://github.com/user-attachments/assets/523a89e5-1df9-40db-b218-7afc859d4c0c" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
-    </a>
-</div>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
