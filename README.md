@@ -102,9 +102,7 @@ If you want to contact me, you can communicate through the following means (I do
   </tr>
     
 </table>
-https://github.com/user-attachments/assets/1660b223-3720-4a7c-8146-c1cdeb591275
 
-https://github.com/Mcdalen4a/CRUDPHPMODAL.git
 <h4>API & JSON</h4>
 
 <a href="https://abcdefg1.netlify.app/" target="_blank">TheSimpsonsJSON</a>
