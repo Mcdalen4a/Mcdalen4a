@@ -66,5 +66,5 @@ If you want to contact me, you can communicate through the following means (I do
 
 <a href="https://abcdefg1.netlify.app/" target="_blank">TheSimpsonsJSON</a>
 
-
+<h5>Others</h5>
 
