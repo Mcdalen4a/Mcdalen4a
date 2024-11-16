@@ -105,6 +105,6 @@ If you want to contact me, you can communicate through the following means (I do
 
 
 
-![e4270732-0d31-4f00-863d-ed2b7694c564](https://github.com/user-attachments/assets/afe29afb-a1a1-47e5-ba2f-0804f8b88283)
+
 
 
