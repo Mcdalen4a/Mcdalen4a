@@ -14,9 +14,9 @@ If you want to contact me, you can communicate through the following means (I do
 
 
 
-## Estadísticas de GitHub
+## GitHub Statistics
 
-| Lenguajes más utilizados | Actividad reciente |
+|  Most Used Languages     | Recent Activity    |
 |--------------------------|--------------------|
 | ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=Mcdalen4a&layout=pie) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mcdalen4a&show_icons=true&count_private=true&theme=radical) |
 
@@ -24,9 +24,9 @@ If you want to contact me, you can communicate through the following means (I do
 
 
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Technologies and Tools
 
-| Lenguajes de Programación | Bases de Datos | Frameworks y Librerías | Herramientas |
+| Programming Languages     | Databases      | Frameworks and Libraries | Tools       |
 | ------------------------- | -------------- | ---------------------- | ------------ |
 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
