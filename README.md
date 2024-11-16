@@ -87,6 +87,10 @@ If you want to contact me, you can communicate through the following means (I do
 </table>
 
 
+<h4>API & JSON</h4>
+
+<p>TheSimpsonsJSON: <a href="https://abcdefg1.netlify.app/" target="_blank">TheSimpsonsJSON</a></p>
+
 
 
 
