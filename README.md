@@ -57,9 +57,79 @@ If you want to contact me, you can communicate through the following means (I do
     </a>
 </div>
 
-# Projects 
+# Projects
 
-<table style="width: 100%; text-align: center; border-spacing: 20px;"> <tr> <td> <a href="https://github.com/Mcdalen4a/GestorTareasPython.git" target="_blank"> <img src="https://github.com/user-attachments/assets/32eeec1e-46c2-4d23-aacb-d8f381f51f44" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" /> </a> </td> <td> <a href="https://github.com/Mcdalen4a/CRUDCOMUN.git" target="_blank"> <img src="https://github.com/user-attachments/assets/e21741c6-60f1-4f40-8ffa-8c4afa8650fc" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" /> </a> </td> <td> <a href="https://github.com/Mcdalen4a/CRUDModalReact" target="_blank"> <img src="https://github.com/user-attachments/assets/71eb46e4-621a-4116-9e8c-46070b8bd0be" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" /> </a> </td> </tr> <tr> <td> <a href="https://github.com/Mcdalen4a/CalendarioWithTSReact.git" target="_blank"> <img src="https://github.com/user-attachments/assets/1aafb989-1409-4a1e-84a9-5d86a6c3fc0d" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" /> </a> </td> <td> <a href="https://github.com/Mcdalen4a/CarritoDeCompras.git" target="_blank"> <img src="https://github.com/user-attachments/assets/5510033f-bc46-4e1f-b4f9-2927a5396364" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" /> </a> </td> <td> <a href="https://github.com/Mcdalen4a/FormularioParaWhatsapp" target="_blank"> <img src="https://github.com/user-attachments/assets/4fa20b99-1bf3-4931-b54b-c5c0967e6d1b" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" /> </a> </td> </tr> <tr> <td> <a href="https://github.com/Mcdalen4a/CRUDHTMLPYTHON" target="_blank"> <img src="https://github.com/user-attachments/assets/afe29afb-a1a1-47e5-ba2f-0804f8b88283" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" /> </a> </td> <td> <a href="https://github.com/Mcdalen4a/e-commerce.git" target="_blank"> <img src="https://github.com/user-attachments/assets/69cfbb9d-ab68-4652-8347-f8077d130104" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" /> </a> </td> <td> <a href="https://github.com/Mcdalen4a/IntentoDeCine.git" target="_blank"> <img src="https://github.com/user-attachments/assets/72a65715-a9e2-49c3-a1f2-e7c30661832e" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" /> </a> </td> </tr> <tr> <td> <a href="https://github.com/Mcdalen4a/CRUDPHPMODAL.git" target="_blank"> <img src="https://github.com/user-attachments/assets/1660b223-3720-4a7c-8146-c1cdeb591275" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" /> </a> </td> </tr> </table>
+<table style="width: 100%; text-align: center; border-spacing: 20px;">
+  <tr>
+    <td>
+      <a href="https://github.com/Mcdalen4a/GestorTareasPython.git" target="_blank">
+        <img src="https://github.com/user-attachments/assets/32eeec1e-46c2-4d23-aacb-d8f381f51f44" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Mcdalen4a/CRUDCOMUN.git" target="_blank">
+        <img src="https://github.com/user-attachments/assets/e21741c6-60f1-4f40-8ffa-8c4afa8650fc" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Mcdalen4a/CRUDModalReact" target="_blank">
+        <img src="https://github.com/user-attachments/assets/71eb46e4-621a-4116-9e8c-46070b8bd0be" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Mcdalen4a/CalendarioWithTSReact.git" target="_blank">
+        <img src="https://github.com/user-attachments/assets/1aafb989-1409-4a1e-84a9-5d86a6c3fc0d" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Mcdalen4a/CarritoDeCompras.git" target="_blank">
+        <img src="https://github.com/user-attachments/assets/5510033f-bc46-4e1f-b4f9-2927a5396364" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Mcdalen4a/FormularioParaWhatsapp" target="_blank">
+        <img src="https://github.com/user-attachments/assets/4fa20b99-1bf3-4931-b54b-c5c0967e6d1b" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Mcdalen4a/CRUDHTMLPYTHON" target="_blank">
+        <img src="https://github.com/user-attachments/assets/afe29afb-a1a1-47e5-ba2f-0804f8b88283" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Mcdalen4a/e-commerce.git" target="_blank">
+        <img src="https://github.com/user-attachments/assets/69cfbb9d-ab68-4652-8347-f8077d130104" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Mcdalen4a/IntentoDeCine.git" target="_blank">
+        <img src="https://github.com/user-attachments/assets/72a65715-a9e2-49c3-a1f2-e7c30661832e" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Mcdalen4a/CRUDPHPMODAL.git" target="_blank">
+        <img src="https://github.com/user-attachments/assets/1660b223-3720-4a7c-8146-c1cdeb591275" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Mcdalen4a/TableroKanban" target="_blank">
+        <img src="https://github.com/user-attachments/assets/fe3077e9-65cf-4da1-9674-a17f186c1d1e" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+https://github.com/Mcdalen4a/TableroKanban 
+https://github.com/user-attachments/assets/fe3077e9-65cf-4da1-9674-a17f186c1d1e
 
 
 # API & JSON
