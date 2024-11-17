@@ -117,8 +117,6 @@ If you want to contact me, you can communicate through the following means (I do
         <img src="https://github.com/user-attachments/assets/1660b223-3720-4a7c-8146-c1cdeb591275" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://github.com/Mcdalen4a/TableroKanban" target="_blank">
         <img src="https://github.com/user-attachments/assets/fe3077e9-65cf-4da1-9674-a17f186c1d1e" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
@@ -128,8 +126,7 @@ If you want to contact me, you can communicate through the following means (I do
 </table>
 
 
-https://github.com/Mcdalen4a/TableroKanban 
-https://github.com/user-attachments/assets/fe3077e9-65cf-4da1-9674-a17f186c1d1e
+
 
 
 # API & JSON
