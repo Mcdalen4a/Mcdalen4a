@@ -101,12 +101,12 @@ If you want to contact me, you can communicate through the following means (I do
       </a>
     </td>
     <td>
-      <a href="https://github.com/Mcdalen4a/e-commerce.git" target="_blank">
+      <a href="https://github.com/Mcdalen4a/IntentoDeCine.git" target="_blank">
         <img src="https://github.com/user-attachments/assets/69cfbb9d-ab68-4652-8347-f8077d130104" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/Mcdalen4a/IntentoDeCine.git" target="_blank">
+      <a href="https://github.com/Mcdalen4a/e-commerce.git" target="_blank">
         <img src="https://github.com/user-attachments/assets/72a65715-a9e2-49c3-a1f2-e7c30661832e" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
       </a>
     </td>
