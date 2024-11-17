@@ -140,6 +140,12 @@ If you want to contact me, you can communicate through the following means (I do
 
 # Others
 
-<a href="https://github.com/Mcdalen4a/AlgoritmoBurbuja.git" target="_blank">Algoritmos de Busqueda y Orientacion</a>
-<a href="https://github.com/Mcdalen4a/ConvertidorJSONaCSV" target="_blank">ConvertirJSONaCSV</a>
-<a href="https://github.com/Mcdalen4a/ConversorImagenes" target="_blank">ConversorImages</a>
+<div style="display: block; margin-bottom: 10px;">
+  <a href="https://github.com/Mcdalen4a/AlgoritmoBurbuja.git" target="_blank">Algoritmos de Busqueda y Orientacion</a>
+</div>
+<div style="display: block; margin-bottom: 10px;">
+  <a href="https://github.com/Mcdalen4a/ConvertidorJSONaCSV" target="_blank">ConvertirJSONaCSV</a>
+</div>
+<div style="display: block;">
+  <a href="https://github.com/Mcdalen4a/ConversorImagenes" target="_blank">ConversorImages</a>
+</div>
