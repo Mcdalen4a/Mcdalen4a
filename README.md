@@ -122,11 +122,18 @@ If you want to contact me, you can communicate through the following means (I do
         <img src="https://github.com/user-attachments/assets/fe3077e9-65cf-4da1-9674-a17f186c1d1e" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
       </a>
     </td>
+    <td>
+      <a href="https://github.com/Mcdalen4a/Rick-MortyWithNEXT.JS.git" target="_blank">
+        <img src="https://github.com/user-attachments/assets/7c846331-700e-430e-ad38-5c51684d84e4" style="width: 250px; height: 150px; object-fit: cover; border: 2px solid #ccc; border-radius: 10px;" />
+      </a>
+    </td>
   </tr>
 </table>
 
 
+https://github.com/Mcdalen4a/Rick-MortyWithNEXT.JS.git
 
+https://github.com/user-attachments/assets/7c846331-700e-430e-ad38-5c51684d84e4
 
 
 # API & JSON
